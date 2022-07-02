@@ -25,7 +25,7 @@ A Sales Operations Analyst passionate about games, technology and data. Currentl
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat&logo=Power-BI)
-![SQL](https://img.shields.io/badge/-MY%20SQL-black?style=flat&logo=MYSQL)
+![SQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MYSQL)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github)
