@@ -14,16 +14,19 @@ A Sales Operations Analyst passionate about games, technology and data. Currentl
 - 🤠 Fun fact: I was mayor of my town for a day when i was 15.
 
 💻 I use daily:
+
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-black?style=flat&logo=Google-Sheets)
 ![Google Drive](https://img.shields.io/badge/-Google%20Drive-black?style=flat&logo=Google-Drive)
 ![Google Drive](https://img.shields.io/badge/-Google%20Data%20Studio-black?style=flat&logo=Google-Analytics)
 ![Monday](https://img.shields.io/badge/-Monday%20CRM-black?style=flat&logo=Trello)
  
  🤯 Learning about:
+ 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat&logo=Power-BI)
 ![SQL](https://img.shields.io/badge/-MY%20SQL-black?style=flat&logo=MYSQL)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=Pandas)
