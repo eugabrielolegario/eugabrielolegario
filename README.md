@@ -4,13 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_"Olegas"_Olegário-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielolegario/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@notolegas-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=notolegas "Follow on Twitter")
 
-<a href="ttps://www.linkedin.com/in/gabrielolegario/"><img src="https://github.com/gabriel-olegas/gabriel-olegas/blob/main/memoji.PNG" align="right" height="275" /></a>
-
 A Sales Operations Analyst passionate about games, technology and data. Currently studying Digital Business at MBA USP/Esalq (Universidade de São Paulo) and venturing into the Data Science world at EBAC (Escola Britânica de Artes Criativas e Tecnologia).
 
-- 🕹 Working at Druid Creative Gaming
-- 📊 Freelancing at Looga Creative Studio
-- 💬 Talk to me about sci-fi, documentaries, games and hamburgers.
+- 🕹 Working at Druid Creative Gaming;
+- 📊 Freelancing at Looga Creative Studio;
+- 💬 Talk to me about sci-fi, documentaries, games and hamburgers;
 - 🤠 Fun fact: I was mayor of my town for a day when i was 15.
 
 💻 I use daily:
