@@ -2,7 +2,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.oligar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabriel.oligar@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_"Olegas"_Olegário-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielolegario/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@notolegas-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=notolegas "Follow on Twitter")
 
 Um Analista de Sales Operations apaixonado pelo mundo de games, tecnologia e dados. Atualmente cursando MBA em Digital Business pela USP/Esalq e me aventurando no mundo de Data Science na EBAC (Escola Britânica de Artes Criativas e Tecnologia).
 
