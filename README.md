@@ -28,13 +28,3 @@ Um Analista de Sales Operations apaixonado pelo mundo de games, tecnologia e dad
 ![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=Pandas)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=Jupyter)
-
-
-<details>
-  <summary>Minhas estatísticas :eye:</summary>
-  <br>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-olegas&count_private=true&show_icons=true&theme=dark)
-  ----
-  
-</details>
