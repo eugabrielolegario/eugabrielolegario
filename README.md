@@ -10,7 +10,7 @@ A Sales Operations Analyst passionate about games, technology and data. Currentl
 - 💬 Talk to me about sci-fi, documentaries, games and hamburgers;
 - 🤠 Fun fact: I was mayor of my town for a day when i was 15.
 
-💻 I use daily::
+💻 I use daily:
 
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-black?style=flat&logo=Google-Sheets)
 ![Google Drive](https://img.shields.io/badge/-Google%20Drive-black?style=flat&logo=Google-Drive)
