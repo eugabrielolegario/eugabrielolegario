@@ -5,7 +5,7 @@
 
 A Business Insights Manager passionate about games, technology and data. Currently studying Digital Business MBA at USP/Esalq (Universidade de São Paulo) and venturing into the Data Science world at EBAC (Escola Britânica de Artes Criativas e Tecnologia).
 
-- 🕹 Working at Druid Creative Gaming;
+- 🕹 Working at Smart Social;
 - 📊 Freelancing at Looga Creative Studio;
 - 💬 Talk to me about sci-fi, documentaries, games and hamburgers;
 - 🤠 Fun fact: I was mayor of my town for a day when i was 15.
