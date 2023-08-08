@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.oligar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabriel.oligar@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_"Olegas"_Olegário-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielolegario/ "Connect on LinkedIn")
 
-A Business Insights Manager passionate about games, technology and data. Currently studying Digital Business MBA at USP/Esalq (Universidade de São Paulo) and venturing into the Data Science world at EBAC (Escola Britânica de Artes Criativas e Tecnologia).
+A Strategy Director passionate about games, technology and data. Currently studying Digital Business MBA at USP/Esalq (Universidade de São Paulo) and venturing into the Data Science world at EBAC (Escola Britânica de Artes Criativas e Tecnologia).
 
 - 🕹 Working at Smart Social;
 - 💬 Talk to me about sci-fi, documentaries, movies and hamburgers;
