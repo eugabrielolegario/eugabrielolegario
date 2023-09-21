@@ -1,4 +1,4 @@
-# Hello, world! I'm [Gabriel](https://www.linkedin.com/in/gabrielolegario/), aka Olegas! 👋🏿👨🏾‍💻
+# Hello, world! I'm Gabriel, aka Olegas! 👋🏿👨🏾‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.oligar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gabriel.oligar@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_"Olegas"_Olegário-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielolegario/ "Connect on LinkedIn")
